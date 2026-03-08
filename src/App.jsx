@@ -3,7 +3,7 @@ import fionaImage from './assets/fiona.jpeg'
 
 function App() {
   const names = {
-    "Mohammad": { role: "SpringBoot Developer", image: null },
+    "Name": { role: "SpringBoot Developer", image: null },
     "Andres": { role: "Backend Developer", image: null },
     "Stella": { role: "Backend Developer", image: null },
     "Fiona": { role: "Frontend Developer", image: fionaImage },
