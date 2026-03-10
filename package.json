@@ -2,7 +2,7 @@
   "name": "style-finder-web",
   "private": true,
   "version": "0.0.0",
-  "homepage": "stylefinder.tech",
+  "homepage": "https://stylefinder.tech",
   "type": "module",
   "scripts": {
     "dev": "vite",
