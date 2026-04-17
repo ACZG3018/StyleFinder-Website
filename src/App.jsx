@@ -16,7 +16,7 @@ function App() {
         <div className="header" style={{ alignItems: "center", backgroundColor: "#5A7D8C", display: "flex", flexDirection: "row", justifyContent: "space-between", padding: "1rem" }}>
           <h1 style={{ color: "#4A3A33" }}>Style Finder</h1>
           <button style={{ backgroundColor: "#D6CCC2", borderRadius: "5px", color: "#4A3A33", fontSize: "2rem", height: "30%", padding: "0.5rem 1rem", border: "none", cursor: "pointer" }}>
-            <a href="https://f005.backblazeb2.com/file/stylefinder-releases/app.apk"
+            <a href="https://app.stylefinder.tech"
               onClick={() => console.log("Press Download Button")}
               style={{ color: "#4A3A33", textDecoration: "none" }}
             >
